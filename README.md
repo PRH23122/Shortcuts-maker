@@ -1,2 +1,2 @@
-# CCHelper
-A shortcut for those who have problems with Control Center (firmware bugs, reboots when using the stock Control Center).
+# Shortcut Maker
+“I create simple shortcuts that I hope will help someone.”
